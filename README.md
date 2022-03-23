@@ -6,6 +6,6 @@
 <br>
 <br>
 <a href="https://www.instagram.com/_simov__/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://twitter.com/_simov__"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://open.spotify.com/user/vxkql0zhf1k16yscw2sjawqb8"><img align="left" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
-<a href="hvmart0#2470"><img align="left" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+![](https://dcbadge.vercel.app/api/shield/hvmart0#2470)
+<a href="https://twitter.com/_simov__"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
