@@ -1,6 +1,6 @@
 # Hi there, I'm Martin! 👋
 
-### 5teen <br> I'm currently studying C# in SoftUni and school.
+### 5teen <br> I'm currently studying C# at @SoftUni.
 
 <br>
 
