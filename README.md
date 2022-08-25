@@ -18,3 +18,4 @@
 <a href="https://drive.google.com/file/d/1CTo2KdCmAG5oiAisBX5r7n8yDYgkB7CY/view?usp=sharing"><img align="left" src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" alt="Snapchat" /></a>
 <a href="https://twitter.com/_simov__"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.facebook.com/martin.simov.9849/"><img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://dev.to/marti2509"><img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
