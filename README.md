@@ -1,10 +1,20 @@
-# Hi there, I'm Martin! 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"> Hi there, I'm Martin! 
+<em>
 
 ### 5teen <br> I'm currently studying C# at SoftUni and JavaScript on my own.
 
 <br>
 
 <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Marti2509&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marti2509&layout=compact&theme=tokyonight&hide_border=true" /></a>
+
+|**Courses**|**Certificates**|
+|:---|:---|
+|<a href="https://softuni.bg/trainings/3513/programming-basics-with-csharp-november-2021" > Programming Basics with C# </a>| <a href="https://softuni.bg/certificates/details/121578/7750ce91"> 👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-2022"> C# Fundamentals </a>| <a href="https://softuni.bg/certificates/details/129905/f997a3d7"> 👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022"> C# Advanced </a>| <a href="https://softuni.bg/certificates/details/136303/fe3b93f1"> 👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022"> C# OOP </a>| <a href="https://softuni.bg/certificates/details/141775/deece4d2"> 👉📜✔️</a> |
+
+<br>
 
 <img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
