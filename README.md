@@ -9,10 +9,10 @@
 
 |**Courses**|**Certificates**|
 |:---|:---|
-|<a href="https://softuni.bg/trainings/3513/programming-basics-with-csharp-november-2021" > Programming Basics with C# </a>| <a href="https://softuni.bg/certificates/details/121578/7750ce91"> 👉📜✔️</a> |
-|<a href="https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-2022"> C# Fundamentals </a>| <a href="https://softuni.bg/certificates/details/129905/f997a3d7"> 👉📜✔️</a> |
-|<a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022"> C# Advanced </a>| <a href="https://softuni.bg/certificates/details/136303/fe3b93f1"> 👉📜✔️</a> |
-|<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022"> C# OOP </a>| <a href="https://softuni.bg/certificates/details/141775/deece4d2"> 👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3513/programming-basics-with-csharp-november-2021" > Programming Basics with C# </a>| <a href="https://softuni.bg/certificates/details/121578/7750ce91"> 👉📜✅</a> |
+|<a href="https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-2022"> C# Fundamentals </a>| <a href="https://softuni.bg/certificates/details/129905/f997a3d7"> 👉📜✅</a> |
+|<a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022"> C# Advanced </a>| <a href="https://softuni.bg/certificates/details/136303/fe3b93f1"> 👉📜✅</a> |
+|<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022"> C# OOP </a>| <a href="https://softuni.bg/certificates/details/141775/deece4d2"> 👉📜✅</a> |
 
 <br>
 
