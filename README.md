@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"> Hi there, I'm Martin! 
 <em>
 
-### 5teen <br> I'm currently studying C# at SoftUni and JavaScript on my own.
+### 5teen <br> I'm currently studying C# and JavaScript at SoftUni.
 
 <br>
 
@@ -14,11 +14,6 @@
 |<a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022"> C# Advanced </a>| <a href="https://softuni.bg/certificates/details/136303/fe3b93f1"> 👉📜✅</a> |
 |<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022"> C# OOP </a>| <a href="https://softuni.bg/certificates/details/141775/deece4d2"> 👉📜✅</a> |
 
-<br>
-
-<img align="left" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-<br>
 <br>
 <a href="https://www.instagram.com/_simov__/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://open.spotify.com/user/vxkql0zhf1k16yscw2sjawqb8"><img align="left" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
