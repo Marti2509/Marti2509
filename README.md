@@ -1,3 +1,5 @@
+<img src="img/Martin_SoftUni_Project_without_tapes_PNG.png" alt="Profile Picture">
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"> Hi there, I'm Martin! 
 <em>
 
