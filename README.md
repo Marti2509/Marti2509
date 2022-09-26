@@ -24,6 +24,9 @@
 
 <br>
 
+[comment]: <> (LINKEDIN)
+<a href="https://www.linkedin.com/in/martin-simov-55b557251/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  
 [comment]: <> (INSTAGRAM)
 <a href="https://www.instagram.com/_simov__/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
