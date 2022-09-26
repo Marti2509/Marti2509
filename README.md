@@ -6,7 +6,7 @@
 <em>
 
 [comment]: <> (INTRODUCTION)
-### 5teen <br> I'm currently studying C# and JavaScript at SoftUni.
+### 6teen <br> I'm currently studying C# and JavaScript at SoftUni.
 
 <br>
 
