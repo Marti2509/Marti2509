@@ -11,7 +11,7 @@
 <br>
 
 [comment]: <> (STATISTICS)
-<a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Marti2509&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marti2509&layout=compact&theme=tokyonight&hide_border=true" /></a>
+<a href="#"><img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api?username=Marti2509&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api/top-langs/?username=Marti2509&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
 [comment]: <> (TABLE)
 
