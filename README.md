@@ -44,3 +44,5 @@
 
 [comment]: <> (DEV.TO)
 <a href="https://dev.to/marti2509"><img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+
+![snake gif](https://github.com/Marti2509/Marti2509/blob/output/github-contribution-grid-snake.svg)
