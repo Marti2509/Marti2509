@@ -11,7 +11,17 @@
 <br>
 
 [comment]: <> (STATISTICS)
-<a href="#"><img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api?username=Marti2509&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api/top-langs/?username=Marti2509&layout=compact&theme=tokyonight&hide_border=true" /></a>
+<div align=center>
+  <a href="#"><img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api?username=Marti2509&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> <a href="#"><img align="center" width="47%" src="https://github-readme-stats-lake-eta.vercel.app/api/top-langs/?username=Marti2509&layout=compact&theme=tokyonight&hide_border=true" /></a>
+</div>
+
+<br>
+
+<div align=center>
+    <a href="#"><img align="center" width="47%" src="https://streak-stats.demolab.com?user=Marti2509&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats" alt="GitHub Stats" /></a>
+ </div>
+ 
+ <br>
 
 [comment]: <> (TABLE)
 
