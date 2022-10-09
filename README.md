@@ -2,7 +2,12 @@
 <img src="img/Martin_SoftUni_Project_without_tapes_PNG.png" alt="Profile Picture" width="1300px" align="center">
 
 [comment]: <> (NAME)
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"> Hi there, I'm Martin! 
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=700&color=FF000&width=445&height=63&lines=Hi+There!;I'm+Martin+Simov!">
+  </a>
+</h1>
+
 <em>
 
 [comment]: <> (INTRODUCTION)
