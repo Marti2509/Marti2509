@@ -27,15 +27,14 @@
  </div>
  
  <br>
-
+ 
 [comment]: <> (TABLE)
+<div align=center>
 
-|**Courses**|**Certificates**|
-|:---|:---|
-|<a href="https://softuni.bg/trainings/3513/programming-basics-with-csharp-november-2021" > Programming Basics with C# </a>| <a href="https://softuni.bg/certificates/details/121578/7750ce91"> 👉📜✅</a> |
-|<a href="https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-2022"> C# Fundamentals </a>| <a href="https://softuni.bg/certificates/details/129905/f997a3d7"> 👉📜✅</a> |
-|<a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022"> C# Advanced </a>| <a href="https://softuni.bg/certificates/details/136303/fe3b93f1"> 👉📜✅</a> |
-|<a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022"> C# OOP </a>| <a href="https://softuni.bg/certificates/details/141775/deece4d2"> 👉📜✅</a> |
+|**SoftUni**|**Certificates**|
+|--|--|
+|<table> <tr><th>**Courses**</th><th>**Certificates**</th></tr><tr><td><a href="https://softuni.bg/trainings/3513/programming-basics-with-csharp-november-2021" > Programming Basics with C# </a></td><td><a href="https://softuni.bg/certificates/details/121578/7750ce91"> 👉📜✅</a></td></tr><tr><td><a href="https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-2022"> C# Fundamentals </a></td><td><a href="https://softuni.bg/certificates/details/129905/f997a3d7"> 👉📜✅</a></td></tr><tr><td><a href="https://softuni.bg/trainings/3699/csharp-advanced-may-2022"> C# Advanced </a></td><td><a href="https://softuni.bg/certificates/details/136303/fe3b93f1"> 👉📜✅</a></td></tr><tr><td><a href="https://softuni.bg/trainings/3700/csharp-oop-june-2022"> C# OOP </a></td><td><a href="https://softuni.bg/certificates/details/141775/deece4d2"> 👉📜✅</a></td></tr> </table>| <table> <tr><th>**Courses**</th><th>**Certificates**</th></tr><tr><td><a href="https://softuni.bg/trainings/3846/js-advanced-september-2022" > JS Advanced </a></td><td>TBA</td></tr><tr><td><a href="https://softuni.bg/trainings/3847/js-applications-october-2022"> JS Applications </a></td><td>TBA</td></tr> </table>|
+</div>
 
 <br>
 
