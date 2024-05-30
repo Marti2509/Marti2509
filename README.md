@@ -11,7 +11,7 @@
 <em>
 
 [comment]: <> (INTRODUCTION)
-### 6teen <br> I'm currently studying C# at SoftUni.
+### 7teen
 
 <br>
 
